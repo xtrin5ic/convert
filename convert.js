@@ -1,5 +1,5 @@
 //This code is incomplete as I ran out of time.
-//I am happy I got the conversion to work, but have liked to change the order of the case and arguments.
+//I am happy I got the conversion to work, but would have liked to change the order of the case and arguments.
 //The test is incomplete aswell, but I got it working on a separate test run.
 
 // Input is always inches, but the output should be defined according to the following listing 
